@@ -1,0 +1,5 @@
+D:\csharp\ConvertWMAToMP3\ConvertWMAToMP3\bin\Debug\ConvertWMAToMP3.exe
+D:\csharp\ConvertWMAToMP3\ConvertWMAToMP3\bin\Debug\ConvertWMAToMP3.pdb
+D:\csharp\ConvertWMAToMP3\ConvertWMAToMP3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\csharp\ConvertWMAToMP3\ConvertWMAToMP3\obj\x86\Debug\ConvertWMAToMP3.exe
+D:\csharp\ConvertWMAToMP3\ConvertWMAToMP3\obj\x86\Debug\ConvertWMAToMP3.pdb
